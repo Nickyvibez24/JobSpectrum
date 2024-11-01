@@ -25,7 +25,7 @@ nav .navbar{
  margin: auto;
 }
 
-nav .navbar .logo a img{
+nav .navbar .logoo a img{
   position: absolute;
   top: 0px;
   height: 65px;
